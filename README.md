@@ -1,6 +1,6 @@
 # Biker Zone
 
-The Bootstrap CSS framework was used in this project to construct a responsive Manage Landing Page. I learned how to create a responsive website without using Vanilla CSS here.
+The Bootstrap CSS framework was used in this project to construct a responsive Biker Zone Landing Page. I learned how to create a responsive website without using Vanilla CSS here.
 
 liveDemo: https:
 
